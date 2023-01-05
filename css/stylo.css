@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+}
+.conteiner{
+    width: 100%;
+    max-width: 580px;
+    margin: 20px auto;
+    padding: 30px 0;
+    border: 3px solid rgb(220, 220, 220);
+}
