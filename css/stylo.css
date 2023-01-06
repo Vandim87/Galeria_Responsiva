@@ -8,7 +8,7 @@ html, body{
 }
 .conteiner{
     width: 100%;
-    max-width: 580px;
+    max-width: 780px;
     margin: 20px auto;
     padding: 30px 0;
     border: 3px solid rgb(220, 220, 220);
